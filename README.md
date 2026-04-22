@@ -147,14 +147,3 @@ This project aims to predict whether a customer will churn (leave a service) bas
 \---
 
 
-
-\## 🚀 How to Run
-
-
-
-1\. Open the notebook:
-
-```bash
-
-jupyter notebook CodVeda\_Level2\_Task1.ipynb
-
